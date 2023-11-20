@@ -2,10 +2,10 @@
  make logicgate with unity
 
 # UI
-![image](https://github.com/jkh0515/Logicgate/assets/81910107/29556a85-0bb8-4861-9d4c-3a5c58f09181)
+![image](https://github.com/jkh0515/Logicgate/assets/81910107/906d94e6-d94b-4a29-8cbe-fc32f82ceaa4)
 
 # PLAY
-![image](https://github.com/jkh0515/Logicgate/assets/81910107/3f48ec34-562f-410b-8bf3-2bbfed8e8d94)
-![image](https://github.com/jkh0515/Logicgate/assets/81910107/7353c1f1-95ba-408a-a9ad-955267289d71)
-![image](https://github.com/jkh0515/Logicgate/assets/81910107/f6737020-84a8-4b16-ae99-456df938ae8d)
-![image](https://github.com/jkh0515/Logicgate/assets/81910107/c7a84e25-6e5a-4aa2-8274-d0099e25a46c)
+![image](https://github.com/jkh0515/Logicgate/assets/81910107/ba43f4e7-a0e3-415e-8a4f-9133d9bf670c)
+![image](https://github.com/jkh0515/Logicgate/assets/81910107/98a92c1f-61af-4172-87b3-a49310a2b37e)
+![image](https://github.com/jkh0515/Logicgate/assets/81910107/a38af01c-c5b3-4b4f-a9d1-4a6e3f72efbf)
+![image](https://github.com/jkh0515/Logicgate/assets/81910107/f1f0ec90-fa27-4f4d-94d6-387ae3177f6b)
